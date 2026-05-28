@@ -1,4 +1,8 @@
 .bundle
+.git
+.github
+.devcontainer
+.vscode
 .env
 .env.*
 docker-compose.*
@@ -12,6 +16,9 @@ tmp
 public/packs
 node_modules
 vendor/bundle
+coverage
+.cache
+.pnpm-store
 .DS_Store
 *.swp
 *~
